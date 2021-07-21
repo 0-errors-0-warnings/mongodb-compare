@@ -1,0 +1,15 @@
+{
+	"RequestId": "Req Id 1",
+	"ClientAccountId": 12,
+	"TradingAccountId": 10102,
+	"ISIN": "",
+	"settings": {
+		"market": 1.23,
+		"offered_market": {
+			"level1": 55.01,
+			"level2": 56.06
+		},
+		"underlying": 7.56,
+		"stepbands": [0.25, 0.45, 0.9]
+	}
+}

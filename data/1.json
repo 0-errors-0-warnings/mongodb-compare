@@ -1,0 +1,15 @@
+{
+	"RequestId": "Req Id 1",
+	"ClientAccountId": 12,
+	"TradingAccountId": 10101,
+	"RIC": "",
+	"settings": {
+		"market": 1.23,
+		"offered_market": {
+			"level1": 55.01,
+			"level2": 56.05
+		},
+		"commission": 4.58,
+		"stepbands": [0.25, 0.46, 0.9]
+	}
+}
